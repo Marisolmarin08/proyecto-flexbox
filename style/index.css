@@ -1,0 +1,56 @@
+body {
+  background-color: #7ec3ec;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+.tiposdehamburguesa {
+    background-color: #f35b5b;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+header {
+  background-color: #75ddf7;
+  color: rgb(16, 14, 14);
+  padding: 10px 0;
+  text-align: center;
+} 
+img {
+  max-width: 100%;
+  height: auto;
+}
+nav :hover{ color: #f30808; }
+nav {
+  background-color: #8ddaed;
+  padding: 10px;
+  text-align: center;
+
+}
+.menu {
+  display: inline-block;
+  margin: 0 15px;
+  text-decoration: none;
+  color: #000;
+}
+.carta {
+  background-color: #f35b5b;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+}
+p {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    color: #0d0c0c;
+    line-height: 18px;
+    margin-bottom: 20px;
+    }
+h1 {
+  font-family: 'Open Sans';
+  font-size: 30px;
+  color: #09011d;
+  line-height: 18px;
+  margin-bottom: 20px;
+}
